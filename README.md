@@ -48,3 +48,11 @@ b. You must have Visual Studio Command Line Utilities installed.
 | `D`			| increase `delta`	|
 | `Shift + D`	| decrease `delta`	|
 | `R` 		| toggle `rotation` (Only for 3DTree) |
+
+# Previews
+
+![2D Tree](previews/2DTree.png)
+<p> Running 2DTree.exe </p>  <br />
+
+![3D Tree](previews/3DTree.png)
+<p> Running 3DTree.exe </p>  <br />
