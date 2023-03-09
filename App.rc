@@ -1,0 +1,3 @@
+#include "include/app.h"
+
+MYICON ICON ".\\resources\\Namasakaram.ico"
