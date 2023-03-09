@@ -27,8 +27,8 @@ Also, at least for now, the API supports only Deterministic Context-Free (D0L) L
 
 # Building with the supplied `.bat` files
 ### Pre-requisites:
-a. Any Windows NT (3.1 and above) Operating System.
-b. You must have Visual Studio Command Line Utilities installed.
+a. Any Windows NT (3.1 and above) Operating System. <br />
+b. You must have Visual Studio Command Line Utilities installed. <br />
 
 ### Steps:
 1. Open an instance of the `x64 Native Tools Command Prompt`.
