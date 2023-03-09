@@ -23,9 +23,12 @@ Heck! Instead, I am learning what is right and what is not! What you see here is
 experimental code, and I have taken no efforts to optimize anything. My only motive at
 the time was to write something that runs and is logical enough for me to use.
 
+Also, at least for now, the API supports only Deterministic Context-Free (D0L) L-Systems.
+
 ## Building with the supplied `.bat` files
 ### Pre-requisites:
-a. You must have Visual Studio Command Line Utilities installed.
+a. Any Windows NT (3.1 and above) Operating System.
+b. You must have Visual Studio Command Line Utilities installed.
 
 1. Open an instance of the `x64 Native Tools Command Prompt`.
 
@@ -35,3 +38,14 @@ a. You must have Visual Studio Command Line Utilities installed.
    for example, run `Build2DTree.bat` to build `2DTree.exe`.
 
 4. You will find the generated executable file at `d0l-fractal-trees/bin`.
+
+# Controls
+
+`L` 		: increase `iterations`
+`Shift + L` : decrease `iterations`
+
+`D`		: increase `delta`
+`Shift + D`	: decrease `delta`
+
+(Only for 3DTree)
+`R` 		: toggle `rotation`

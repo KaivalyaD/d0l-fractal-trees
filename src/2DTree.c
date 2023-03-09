@@ -102,7 +102,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpszCmdLi
 	// create the window
 	hwnd = CreateWindowEx(WS_EX_APPWINDOW,
 		szAppName,
-		TEXT("Going 3D: Kaivalya Vishwakumar Deshpande"),
+		TEXT("Kaivalya Deshpande: 2D Tree"),
 		WS_OVERLAPPEDWINDOW | WS_CLIPCHILDREN | WS_CLIPSIBLINGS | WS_VISIBLE,
 		(cxScreen - WIN_WIDTH) / 2,
 		(cyScreen - WIN_HEIGHT) / 2,
@@ -530,7 +530,7 @@ void display(void)
 	// update window title
 	StringCbPrintf(newTitle,
 		sizeof(newTitle),
-		TEXT("Kaivalya Deshpande: 3D Tree | iterations = %d | delta = %.2f"),
+		TEXT("Kaivalya Deshpande: 2D Tree | iterations = %d | delta = %.2f"),
 		gIterations,
 		gDelta
 	);
