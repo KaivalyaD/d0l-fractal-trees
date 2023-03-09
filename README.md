@@ -25,11 +25,12 @@ the time was to write something that runs and is logical enough for me to use.
 
 Also, at least for now, the API supports only Deterministic Context-Free (D0L) L-Systems.
 
-## Building with the supplied `.bat` files
+# Building with the supplied `.bat` files
 ### Pre-requisites:
 a. Any Windows NT (3.1 and above) Operating System.
 b. You must have Visual Studio Command Line Utilities installed.
 
+### Steps:
 1. Open an instance of the `x64 Native Tools Command Prompt`.
 
 2. Navigate to the `d0l-fractal-trees` folder using `cd`.
