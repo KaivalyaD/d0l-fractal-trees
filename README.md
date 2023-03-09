@@ -41,11 +41,11 @@ b. You must have Visual Studio Command Line Utilities installed.
 
 # Controls
 
-`L` 		: increase `iterations`
-`Shift + L` : decrease `iterations`
-
-`D`		: increase `delta`
-`Shift + D`	: decrease `delta`
-
-(Only for 3DTree)
-`R` 		: toggle `rotation`
+`L` 		: increase `iterations` <br />
+`Shift + L` : decrease `iterations` <br />
+<br />
+`D`		: increase `delta` <br />
+`Shift + D`	: decrease `delta` <br />
+<br />
+(Only for 3DTree) <br />
+`R` 		: toggle `rotation` <br />
